@@ -1,0 +1,15 @@
+{
+  "name": "hakeem.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://9581821@git.dc0.gpaas.net/hakeem.io.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
